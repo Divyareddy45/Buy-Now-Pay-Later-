@@ -1,4 +1,4 @@
-**📊💳 BNPL Customer Insights & Risk Analysis**
+*📊💳 **BNPL CUSTOMER INSIGHTS & RISK ANALYSIS***
 ________________________________________
 Deep-diving into Buy Now, Pay Later (BNPL) data to analyse customer behaviour, repayment performance, and risk profiles using Python, SQL, and BI dashboards.
 ________________________________________
@@ -20,6 +20,7 @@ Build a modular data pipeline to manage the entire data flow: from raw generatio
 ________________________________________
 
  **Phase 2: SQL Analysis**
+ 
 Students will import the cleaned CSV into a database and write SQL queries such as:
 1.	Total purchases by customer
 2.	Missed payments by the merchant
@@ -27,7 +28,8 @@ Students will import the cleaned CSV into a database and write SQL queries such 
 4.	Most common product categories per location
 5.	Risk classification based on late payments
 ________________________________________
-**Phase 3: Tableau / Power BI Visualization**<img width="1313" height="691" alt="BNPL POWER BI" src="https://github.com/user-attachments/assets/2c38c224-55a9-477b-9d8e-5331aa35720f" />
+**Phase 3:Power BI Visualization**
+<img width="1313" height="691" alt="BNPL POWER BI" src="https://github.com/user-attachments/assets/2c38c224-55a9-477b-9d8e-5331aa35720f" />
 
 Suggested Visuals:
 •	KPIs: Total Users, Active Users, Default Rate
