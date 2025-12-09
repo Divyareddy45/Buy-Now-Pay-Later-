@@ -32,7 +32,8 @@ Students will import the cleaned CSV into a database and write SQL queries such 
 ________________________________________
 **Phase 3:Power BI Visualization**
 
-<img width="1313" height="691" alt="BNPL POWER BI" src="https://github.com/user-attachments/assets/2c38c224-55a9-477b-9d8e-5331aa35720f" />
+<img width="1118" height="679" alt="BNPL POWER BI" src="https://github.com/user-attachments/assets/6d55df8e-b715-4504-b3c0-43dac67cb505" />
+
 
 Suggested Visuals:
 •	KPIs: Total Users, Active Users, Default Rate
