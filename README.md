@@ -1,12 +1,13 @@
-📊💳 BNPL Customer Insights & Risk Analysis
+**📊💳 BNPL Customer Insights & Risk Analysis**
+________________________________________
 Deep-diving into Buy Now, Pay Later (BNPL) data to analyse customer behaviour, repayment performance, and risk profiles using Python, SQL, and BI dashboards.
-
+________________________________________
 🎯 **Objective**
 Analyze BNPL customer data to uncover key trends in spending and repayment behavior.
 Identify high-risk customers using statistical metrics and rule-based criteria.
 Build a clean, modular, and reusable Python ETL pipeline for data preparation.
 Prepare structured datasets for SQL analysis and Tableau/Power BI visualizations to support interactive insights.
-
+________________________________________
 🗂 **Project Phases**
 **Phase 1: Python Data Pipeline (ETL Setup)**
 Build a modular data pipeline to manage the entire data flow: from raw generation or ingestion to transformation and cleaning.
