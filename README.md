@@ -32,7 +32,7 @@ Students will import the cleaned CSV into a database and write SQL queries such 
 ________________________________________
 **Phase 3:Power BI Visualization**
 
-<img width="1121" height="702" alt="BNPL_POWERBI" src="https://github.com/user-attachments/assets/15ef37d0-72f4-49f2-b8c5-846961c4336a" />
+<img width="1129" height="668" alt="Bnpl_powerbi" src="https://github.com/user-attachments/assets/225fdf23-eb76-42d3-95d9-394a5cb2e427" />
 
 
 
